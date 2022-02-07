@@ -11,3 +11,5 @@ it failures to generate the new sheet. It will keep the old formatting and will 
 
 # Prerequisites
 You'll need tkinter, openpyxl and pathlib, the first of which comes standard with python and the latter two are included in Conda. 
+
+[Github]
